@@ -1,0 +1,98 @@
+h11 {
+    color:red;
+}
+
+#logo {
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+}
+
+.project-tab {
+    padding: 10%;
+    margin-top: -8%;
+}
+.project-tab #tabs{
+    background: #007b5e;
+    color: #eee;
+}
+.project-tab #tabs h6.section-title{
+    color: #eee;
+}
+.project-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #0062cc;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid !important;
+    font-size: 16px;
+    font-weight: bold;
+}
+.project-tab .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #0062cc;
+    font-size: 16px;
+    font-weight: 600;
+}
+.project-tab .nav-link:hover {
+    border: none;
+}
+.project-tab thead{
+    background: #f3f3f3;
+    color: #333;
+}
+.project-tab a{
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}
+
+.fonte-form{
+	font-size: 20px;
+	
+}
+
+.centralizar-botoes{
+	align-content: center;
+}
+
+
+.linha{
+display: flex;
+flex-flow: row wrap;
+}
+
+
+.coluna-40 {
+    width: 40%;
+}
+
+.coluna-60 {
+    width: 60%;
+}
+
+.hr-personalizado{
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}
+
+.ac_box { width: 337px; }
+
+.ac_box_top { border: 2px solid #E6E6E6; border-bottom: none; margin-left: 2px; height: 7px; width: 323px; }
+
+.ac_box_cont { border-left: 4px solid #E6E6E6; border-right: 10px solid #E6E6E6; border-bottom: 10px solid #E6E6E6; height: 340px; padding: 5px 0; }
+
+.destacar-div {
+	  box-shadow: inset 0 0 5em #e9ecef;
+	  padding: 1%;
+}
+
+
+.principal-radio{
+	margin-left: 50%;"
+}
